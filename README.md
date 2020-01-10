@@ -23,9 +23,9 @@ Facebook: https://www.facebook.com/tuan.lt259
 
 ![](https://dashnews.org/wp-content/uploads/2018/07/bitcoin-ico.jpg)
 
-https://www.cin.ufpe.br/~ags/jFreeChart/Object.Refinery.The.JFreeChart.Class.Library.Developer.Guide.v1.0.9.Jan.2008.pdf
+Link Andrew course:
 
-https://igm.univ-mlv.fr/ens/IR/IR1/2011-2012/Java/src/jfreechart-0.9.1-US-v1.pdf
+https://github.com/vkosuri/CourseraMachineLearning?fbclid=IwAR1XQSprp9XGl9rzWtXDipcLokxGwFw4XH-hZEr7yNr00ffHvih4A2YBSGo
 
 Google Colab: 
 
