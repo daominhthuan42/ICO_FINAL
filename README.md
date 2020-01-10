@@ -9,7 +9,7 @@ Gmail: daominhthuan091296@gmail.com
 
 ![](https://i.imgur.com/vthCImG.jpg)
 
-- Lê Thanh Tuấn - 15119142. Hiện tại là sinh viên trường Đại học Sư Phạm Kỹ Thuật Tp.HCM. Chuyên ngành Công Nghệ Kỹ Thuật Máy Tính.
+- Lê Thanh Tuấn - 15119152. Hiện tại là sinh viên trường Đại học Sư Phạm Kỹ Thuật Tp.HCM. Chuyên ngành Công Nghệ Kỹ Thuật Máy Tính.
 
 Thông tin liên hệ có thể qua facebook .
 
