@@ -31,6 +31,9 @@ Google Colab:
 
 https://colab.research.google.com/drive/1O980JhFgeY3utR9vWasECM9jd4q55Eb1
 
+
+http://vitinhquangchinh.com/products/category/112/man-hinh-lcd-led.html?page=4
+
         
         
 
