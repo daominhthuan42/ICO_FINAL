@@ -12,6 +12,7 @@
 # import pprint
 # import win32com.client as win32
 # import os
+# from pywintypes import com_error
 
 # word = win32.gencache.EnsureDispatch("Word.Application")
 # wdExportFormatPDF = 17
@@ -31,14 +32,26 @@
 
 # word.ActiveDocument.Save()
 # os.chdir("C:/Users/PC/Desktop")
-# word.ActiveDocument.ExportAsFixedFormat(OutputFileName = "C:/Users/PC/Desktop/BAO_CAO.pdf",
-# ExportFormat=wdExportFormatPDF, OpenAfterExport=True, OptimizeFor = wdExportOptimizeForPrint,
-# Range = wdExportAllDocument, From = 1, To = 1, IncludeDocProps = True,
-# KeepIRM = True, CreateBookmarks = wdExportCreateHeadingBookmarks, DocStructureTags = True,
-# BitmapMissingFonts = True, UseISO19005_1 = False)
+# try:
+#     word.ActiveDocument.ExportAsFixedFormat(OutputFileName = "C:/Users/PC/Desktop/BAO_CAO.pdf",
+#     ExportFormat=wdExportFormatPDF, OpenAfterExport=True, OptimizeFor = wdExportOptimizeForPrint,
+#     Range = wdExportAllDocument, From = 1, To = 1, IncludeDocProps = True,
+#     KeepIRM = True, CreateBookmarks = wdExportCreateHeadingBookmarks, DocStructureTags = True,
+#     BitmapMissingFonts = True, UseISO19005_1 = False)
 
-# doc.Close(False)
-# word.Application.Quit()
+# except com_error as e:
+#     print('failed.')
+# else:
+#     print('Succeeded.')
+# finally:
+#     doc.Close(False)
+#     word.Application.Quit()
+
+
+
+
+
+
 
 
 
