@@ -9,6 +9,42 @@
 
 # pprint.pprint(help(WrDoc))
 
+# import pprint
+# import win32com.client as win32
+# import os
+
+# word = win32.gencache.EnsureDispatch("Word.Application")
+# wdExportFormatPDF = 17
+# wdExportOptimizeForPrint = 0
+# wdExportAllDocument = 0
+# wdExportDocumentContent = 0
+# wdExportCreateHeadingBookmarks = 1
+
+# word.Visible = True
+# doc = word.Documents.Open("E:/PYTHON_COMPUTER_VISSION/FINAL_PROJECT/ICO/BAO_CAO.docx")
+# # doc.Active()
+# word.ActiveDocument.TrackRevisions = False
+# word.ActiveDocument.Revisions.AcceptAll()
+# # Delete all comments
+# if word.ActiveDocument.Comments.Count >= 1:
+#     word.ActiveDocument.DeleteAllComments()
+
+# word.ActiveDocument.Save()
+# os.chdir("C:/Users/PC/Desktop")
+# word.ActiveDocument.ExportAsFixedFormat(OutputFileName = "C:/Users/PC/Desktop/BAO_CAO.pdf",
+# ExportFormat=wdExportFormatPDF, OpenAfterExport=True, OptimizeFor = wdExportOptimizeForPrint,
+# Range = wdExportAllDocument, From = 1, To = 1, IncludeDocProps = True,
+# KeepIRM = True, CreateBookmarks = wdExportCreateHeadingBookmarks, DocStructureTags = True,
+# BitmapMissingFonts = True, UseISO19005_1 = False)
+
+# doc.Close(False)
+# word.Application.Quit()
+
+
+
+
+
+
 import sys
 import json
 import subprocess
