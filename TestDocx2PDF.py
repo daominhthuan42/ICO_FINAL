@@ -1,3 +1,14 @@
+# https://stackoverflow.com/questions/49088748/python-using-win32com-client-to-accept-all-changes-in-word-documents
+# import pprint
+# import win32com.client as win32
+# wordApp = win32.gencache.EnsureDispatch("Word.Application")
+
+# wordApp.Visible = True
+# WrDoc = wordApp.Documents.Add("E:/PYTHON_COMPUTER_VISSION/FINAL_PROJECT/ICO/BAO_CAO.docx")
+# WrDoc = win32.gencache.EnsureDispatch(wordApp.Documents(1))
+
+# pprint.pprint(help(WrDoc))
+
 import sys
 import json
 import subprocess
