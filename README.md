@@ -34,6 +34,20 @@ https://colab.research.google.com/drive/1O980JhFgeY3utR9vWasECM9jd4q55Eb1
 
 http://vitinhquangchinh.com/products/category/112/man-hinh-lcd-led.html?page=4
 
+
+https://youtu.be/FmynKgTTT8k
+
+    Rainmeter – https://www.rainmeter.net/
+    Weather Skin – https://www.deviantart.com/zivallh/art/Small-Clean-Weather-Animated-846548068
+    Mond Skin – https://www.deviantart.com/apexxx-sensei/art/Mond-762455575
+    Winstep Nexus Dock – https://www.winstep.net/nexus.asp
+    Winstep Nexus Dock Settings – https://www.mediafire.com/file/wwc7tye2h2oaycm/Winstep_%2528Natural_Look_Settings%2529.zip/file
+    StartIsBack – https://startisback.com/
+    Lively Wallpaper – https://rocksdanister.github.io/lively/
+    Nature Wallpaper – https://unsplash.com/photos/5em1lVBmvw8
+
+
+
         
         
 
