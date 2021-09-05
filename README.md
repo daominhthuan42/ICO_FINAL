@@ -45,6 +45,10 @@ https://youtu.be/FmynKgTTT8k
     StartIsBack – https://startisback.com/
     Lively Wallpaper – https://rocksdanister.github.io/lively/
     Nature Wallpaper – https://unsplash.com/photos/5em1lVBmvw8
+    
+    
+    
+    https://github.com/arunbsmrstu/Machine-Learning-Mastery-With-Python/blob/master/Adrian%20Rosebrock%20-%20Deep%20Learning%20for%20Computer%20Vision%20with%20Python%201%2CStarter%20Bundle(2017%2C%20PyImageSearch).pdf
 
 
 
