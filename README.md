@@ -49,6 +49,10 @@ https://youtu.be/FmynKgTTT8k
     
     
     https://github.com/arunbsmrstu/Machine-Learning-Mastery-With-Python/blob/master/Adrian%20Rosebrock%20-%20Deep%20Learning%20for%20Computer%20Vision%20with%20Python%201%2CStarter%20Bundle(2017%2C%20PyImageSearch).pdf
+    
+    https://freepdf-books.com/practical-statistics-for-data-scientists-50-essential-concepts-using-r-and-python-2020/
+    
+    https://github.com/gedeck/practical-statistics-for-data-scientists/tree/master/data
 
 
 
