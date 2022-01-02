@@ -53,7 +53,7 @@ https://youtu.be/FmynKgTTT8k
     https://freepdf-books.com/practical-statistics-for-data-scientists-50-essential-concepts-using-r-and-python-2020/
     
     https://github.com/gedeck/practical-statistics-for-data-scientists/tree/master/data
-
+https://tiki.vn/dem-xuat-du-nhat-topper-1m6x2m-1m4x2m-1mx2m-day-7cm-p88001167.html?spid=88001199
 
 
         
