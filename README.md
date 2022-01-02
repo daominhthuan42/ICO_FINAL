@@ -55,6 +55,8 @@ https://youtu.be/FmynKgTTT8k
     https://github.com/gedeck/practical-statistics-for-data-scientists/tree/master/data
 https://tiki.vn/dem-xuat-du-nhat-topper-1m6x2m-1m4x2m-1mx2m-day-7cm-p88001167.html?spid=88001199
 
+https://tiki.vn/nem-cao-su-non-american-120x200x10cm-p21383170.html?spid=28080364&utm_source=google&utm_medium=cpc&utm_campaign=SEA_NBR_GGL_SMA_DTP_ALL_VN_ALL_UNK_UNK_C.ALL_X.10625984613_Y.106657549322_V.28080364_W.c_A.1394903769325_O.UNK&gclid=Cj0KCQiAt8WOBhDbARIsANQLp95FPmDi4MezW3JN2SL8thqtw0jC6CfwdxynYqqNH0sdxpVcZxbu7IgaAjg8EALw_wcB
+
 
         
         
