@@ -30,6 +30,8 @@ https://github.com/vkosuri/CourseraMachineLearning?fbclid=IwAR1XQSprp9XGl9rzWtXD
 Google Colab: 
 
 https://colab.research.google.com/drive/1O980JhFgeY3utR9vWasECM9jd4q55Eb1
+
+https://colab.research.google.com/drive/1YO1PYXxt2HEQ780SBpb1-wTk8rnv2i81#scrollTo=oxl7dRkBlZTk
     
     
     
